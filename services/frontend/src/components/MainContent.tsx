@@ -156,8 +156,8 @@ export default function MainContent() {
           </AccordionTrigger>
           <AccordionContent>
             A: Downloading music from Spotify using third-party tools is against
-            Spotify's terms of service. Ensure you have the right to download
-            the content and understand the legal implications.
+            Spotify&apos;s terms of service. Ensure you have the right to
+            download the content and understand the legal implications.
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-2">
