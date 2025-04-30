@@ -9,7 +9,7 @@ export async function POST(request: Request) {
       return Response.json({ msg: "No URL was provided..." }, { status: 400 });
     }
     const apiRoute = await fetch(
-      `https://api-rxz9mkg.musicdown.co/get-metadata`,
+      `https://api-rxz9mkg.spotydown.com/get-metadata`,
       {
         method: "POST",
         cache: "no-store",

@@ -10,7 +10,7 @@ export async function POST(request: Request) {
       );
     }
     const apiRoute = await fetch(
-      `https://api-rxz9mkg.musicdown.co/download-track`,
+      `https://api-rxz9mkg.spotydown.com/download-track`,
       {
         method: "POST",
         cache: "no-store",
